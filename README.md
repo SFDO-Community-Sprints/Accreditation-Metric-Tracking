@@ -5,10 +5,10 @@ Open Source Community Sprint project focused on building a solution to track met
 What is the name of your project?
 
 ### Project Theme
-How would you categorize your project? For example, are you creating an app and/or component, writing documentation, focusing on the community ecosystem, making videos, etc.
+How would you categorize your project? For example, are you creating an app and/or component, writing documentation, focusing on the community ecosystem, making videos, etc. [Learn how](https://github.com/SFDO-Community-Sprints/Welcome/wiki/SFDO-Community-Sprints-Topic-Overview) this information loops back into Sprint project work!
 
 ### Project Vertical
-How would you define the audience for your project? For example, nonprofits, education, or everyone.
+How would you define the audience for your project? For example, nonprofits, education, or everyone. [Learn how](https://github.com/SFDO-Community-Sprints/Welcome/wiki/SFDO-Community-Sprints-Topic-Overview) this information loops back into Sprint project work!
 
 ### Hub Group Link
 We encourage you to bring this project conversation to the Power of us Hub! Please include a link to your Hub group here so others can find you and continue the conversation later.
@@ -29,7 +29,6 @@ Let people know what the value and intended benefits of your project are. The mo
 Use these questions to form a clear vision statement of 3-5 sentences (rough guideline). 
 
 Having trouble? Salesforce.org staff and your fellow sprinters are here to help! Use one of your table's request signs and/or post in the Quip Chat to seek help, and we'll pop by.
-
 
 ### Project Resources (It's ok if you'd prefer to type all the things in Google docs, Quip, or your word processor of choice, just please make sure you include links to your work here in Github. We need a source of truth, and for now that's here in GitHub.)
 * Indicate if there are any existing Hub Ideas, or product Issues/Bugs that you're solving for. 
